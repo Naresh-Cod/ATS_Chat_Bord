@@ -3,3 +3,8 @@ google-generativeai
 python-dotenv 
 pdf2image 
 docx
+fpdf
+pillow
+python-docx
+fpdf
+requests
